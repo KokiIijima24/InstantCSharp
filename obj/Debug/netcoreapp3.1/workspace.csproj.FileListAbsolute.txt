@@ -1,0 +1,13 @@
+/home/codespace/workspace/bin/Debug/netcoreapp3.1/workspace
+/home/codespace/workspace/bin/Debug/netcoreapp3.1/workspace.deps.json
+/home/codespace/workspace/bin/Debug/netcoreapp3.1/workspace.runtimeconfig.json
+/home/codespace/workspace/bin/Debug/netcoreapp3.1/workspace.runtimeconfig.dev.json
+/home/codespace/workspace/bin/Debug/netcoreapp3.1/workspace.dll
+/home/codespace/workspace/bin/Debug/netcoreapp3.1/workspace.pdb
+/home/codespace/workspace/obj/Debug/netcoreapp3.1/workspace.csprojAssemblyReference.cache
+/home/codespace/workspace/obj/Debug/netcoreapp3.1/workspace.AssemblyInfoInputs.cache
+/home/codespace/workspace/obj/Debug/netcoreapp3.1/workspace.AssemblyInfo.cs
+/home/codespace/workspace/obj/Debug/netcoreapp3.1/workspace.csproj.CoreCompileInputs.cache
+/home/codespace/workspace/obj/Debug/netcoreapp3.1/workspace.dll
+/home/codespace/workspace/obj/Debug/netcoreapp3.1/workspace.pdb
+/home/codespace/workspace/obj/Debug/netcoreapp3.1/workspace.genruntimeconfig.cache
